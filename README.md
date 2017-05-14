@@ -7,4 +7,6 @@ The second circuit is an LED flasher circuit, which is a bit more advanced, but 
 
 We will be creating the actual PCB layout in the livestream.
 
+The first livestream is tentatively scheduled for Wednesday, May 17th @ 6pm EDT.
+
 Hope to see you there! Stay tuned for details on when this will happen.
